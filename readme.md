@@ -18,6 +18,7 @@ You can start bellow command on \laradock.
 
 ```
 $ docker-compose up workspace
+$ docker exec -it laradock_workspace_1 /bin/bash
 # cd laravel
 # composer install
 # exit
